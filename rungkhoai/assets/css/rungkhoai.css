@@ -1,0 +1,12 @@
+@font-face {
+  font-display: swap;
+  font-family: RungKhoai;
+  font-style: normal;
+  font-weight: 400;
+  src: url(../fonts/UTMGradoo.eot);
+  src: url(../fonts/UTMGradoo.eot?#iefix) format("embedded-opentype"),
+    url(../fonts/UTMGradoo.woff2) format("woff2"),
+    url(../fonts/UTMGradoo.woff) format("woff"),
+    url(../fonts/UTMGradoo.ttf) format("truetype"),
+    url(../fonts/UTMGradoo.svg#UTMGradoo) format("svg");
+}
